@@ -14,6 +14,7 @@
 </div>
 
 ### Hi there 👋
+
 ### I'm Alan James. A Comp Sci Engineer who loves Computers.
 
 <!--
@@ -30,3 +31,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👑 GitHub Status
+___
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
+
+
