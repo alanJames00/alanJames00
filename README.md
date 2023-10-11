@@ -43,7 +43,12 @@ ___
 </p>
 
 ### Random Programming Jokes
+
 <!-- Markdown -->
 
+<div style="text-align:center">
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react&qColor=%23944bcc&aColor=%23bbdb51)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react&qColor=%23944bcc&aColor=%23bbdb51)
+  
+</div>
+
