@@ -42,3 +42,8 @@ ___
   </a>
 </p>
 
+### Random Programming Jokes
+<!-- Markdown -->
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react&qColor=%23944bcc&aColor=%23bbdb51)
