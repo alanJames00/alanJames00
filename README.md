@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 ___
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alanjames00&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanjames00&theme=tokyonight)
-### My Skillset
+### Tools I Work With
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,vim,arduino,bash,bootstrap,cpp,express,firebase,linux,mongodb,netlify,nodejs,postman,py,raspberrypi,vercel" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,vim,arduino,bash,bootstrap,cpp,express,firebase,linux,mongodb,netlify,nodejs,postman,py,raspberrypi,vercel,gcp,nginx,react,vite" />
   </a>
 </p>
 
