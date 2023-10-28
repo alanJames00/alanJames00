@@ -17,6 +17,8 @@
 
 ### I'm Alan James. A Comp Sci Engineer who loves Computers.
 
+![](https://komarev.com/ghpvc/?username=alanjames00&style=for-the-badge&color=ff69b4	)
+
 <!--
 **alanJames00/alanJames00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
