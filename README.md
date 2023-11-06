@@ -15,7 +15,7 @@
 
 ### Hi there 👋
 
-### I'm Alan James. A Comp Sci Engineer who loves Computers.
+### I'm Alan James. A Backend Developer from India.
 
 ![](https://komarev.com/ghpvc/?username=alanjames00&style=for-the-badge&color=ff69b4	)
 
