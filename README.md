@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 -->
 ### 👑 GitHub Status
 ___
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alanjames00&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanjames00&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanjames00&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanjames00&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tools I Work With
 <p align="center">
   <a href="https://skillicons.dev">
