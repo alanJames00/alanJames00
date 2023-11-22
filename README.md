@@ -11,13 +11,21 @@
   <a href="https://twitter.com/AlanJam50752834">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
+  ![](https://komarev.com/ghpvc/?username=alanjames00&style=for-the-badge&color=ff69b4	)
 </div>
 
+<center>
+<div style="text-align: center;">
+  
+  
 ### Hi there 👋
 
 ### I'm Alan James. A Backend Developer from India.
 
-![](https://komarev.com/ghpvc/?username=alanjames00&style=for-the-badge&color=ff69b4	)
+</div>
+
+
 
 <!--
 **alanJames00/alanJames00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
