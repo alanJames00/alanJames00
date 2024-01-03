@@ -49,7 +49,7 @@ ___
 ### Tools I Work With
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,vim,arduino,bash,bootstrap,cpp,express,firebase,linux,mongodb,netlify,nodejs,postman,py,raspberrypi,vercel,gcp,nginx,react,vite,tailwind,ts,workers" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,vim,arduino,bash,bootstrap,cpp,express,firebase,linux,mongodb,netlify,nodejs,postman,py,raspberrypi,vercel,gcp,nginx,react,vite,tailwind,ts,workers,nextjs,postgres,planetscale,mysql" />
   </a>
 </p>
 
